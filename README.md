@@ -1,1 +1,1 @@
-# PATTERN_RECOGNITION_AND_IMAGE_ANALYSIS
+# INFO-H501 Pattern recognition and image analysis
